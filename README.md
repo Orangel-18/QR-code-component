@@ -22,4 +22,4 @@ Your challenge is to build out this QR code component and get it looking as clos
 - CSS Grid
 - Mobile-first workflow
 
-### Check out the result here:
+### Check out the result here: https://qr-code-component-orangel.netlify.app/
